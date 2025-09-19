@@ -1,6 +1,7 @@
 # 🧠 Conceitos Básicos de DOM com JavaScript
 
 ## 📌 O que é o DOM
+
 - O **DOM (Document Object Model)** é uma representação em forma de **árvore** de todos os elementos HTML de uma página.
 - Cada **tag HTML** (como `<div>`, `<p>`, `<img>`, etc.) é um **nó** (node) dessa árvore.
 - Com JavaScript, você pode **acessar, modificar, criar e remover** esses nós.
